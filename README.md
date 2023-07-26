@@ -1,6 +1,9 @@
 # ORM Challenge
 
 In this challenge we were given a working code that has an express.js api , we are meant to configure it to use the sequelize so it can read/use the Mysql dataBase and test it from the Insomnia App.
+
+
+
 https://github.com/JuanSanchez39/ORM.git
 
 
