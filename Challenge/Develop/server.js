@@ -20,31 +20,3 @@ sequelize.sync({ force: false }).then(() => {
 
 
 
-
-
-{
-  "name": "readme-generator",
-  "version": "1.0.0",
-  "description": "Generates a readme file",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JuanSanchez39/README-Generator.git"
-  },
-  "keywords": [
-    "readme"
-  ],
-  "author": "Juan Sanchez",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JuanSanchez39/README-Generator/issues"
-  },
-  "homepage": "https://github.com/JuanSanchez39/README-Generator",
-  "dependencies": {
-    "inquirer": "^8.1.2"
-  },
-  "devDependencies": {}
-}
