@@ -17,7 +17,7 @@ Sequelize
 MySQL
 
 [INSTALLATION] - 
-mmp i
+npm i
 
 [USAGE]- 
 mysql -u root -p
