@@ -18,10 +18,9 @@ MySQL
 
 [INSTALLATION] - 
 npm i
+npm instal sequelize
 
 [USAGE]- 
-mysql -u root -p
-source db/schema.sql
-exit
-npm run seed
-node server.js
+mysql source
+npm run seed ( node seeds/index.js)
+npm start
